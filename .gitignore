@@ -1,0 +1,13 @@
+*.db
+*.sqlite
+*.sqlite3
+.env
+qrcodes/
+__pycache__/
+*.pyc
+*_backup*
+index.phpxxxx
+test-image.html
+test_qr.svg
+testqr.png
+images/testqr.png
